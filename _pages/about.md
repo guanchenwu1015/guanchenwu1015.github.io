@@ -17,6 +17,12 @@ You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/Curriculum_V
 [Email](mailto:guanchen.wu@emory.edu) / [Github]() / [Google Scholar]()
 
 
+## **Recent Research Projects**
+- Undergoing Project 1
+- Undergoing Project 2
+- Undergoing Project 3
+
+
 ## **Recent Readings**
 - What Life Could Mean to You (Alfred Adler)
 - The Razor's Edge (William Somerset Maugham)
