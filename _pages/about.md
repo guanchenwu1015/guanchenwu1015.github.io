@@ -15,3 +15,9 @@ My research interests span graph data mining, artificial intelligence, and large
 You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:guanchen.wu@emory.edu) / [Github]() / [Google Scholar]()
+
+
+## **Recent Readings**
+- What Life Could Mean to You (Alfred Adler)
+- The Razor's Edge (William Somerset Maugham)
+- Language Agents: From Next-Token Prediction to Digital Automation (Shunyu Yao)
