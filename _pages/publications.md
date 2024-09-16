@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 📖 **Selected Publications**
+## 📖 **Publications**
 
 ### **Journals**
 - **[Frontiers'24]** Ontology Extension by Online Clustering With Large Language Model Agents [PDF](){: .btn} 
