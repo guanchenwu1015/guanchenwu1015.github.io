@@ -14,7 +14,7 @@ My research interests span graph data mining, artificial intelligence, and large
 
 You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:guanchen.wu@emory.edu) / [Github]() / [Google Scholar]()
+[Email](mailto:guanchen.wu@emory.edu) / [Github](https://github.com/guanchenwu1015) / [Google Scholar]() / [LinkedIn](https://www.linkedin.com/in/guanchen-wu-4b553a216/)
 
 
 ## **Recent Research Projects**
