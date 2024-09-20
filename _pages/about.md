@@ -16,6 +16,9 @@ You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/Curriculum_V
 
 [Email](mailto:guanchen.wu@emory.edu) / [Github](https://github.com/guanchenwu1015) / [Google Scholar]() / [LinkedIn](https://www.linkedin.com/in/guanchen-wu-4b553a216/)
 
+## **News**
+- 09/2024: One paper accepted by [Frontiers in Big Data-Data Mining and Management](https://www.frontiersin.org/research-topics/62211/large-language-models-in-data-mining).
+
 
 ## **Recent Research Projects**
 - Undergoing Project 1
