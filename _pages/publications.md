@@ -9,7 +9,7 @@ author_profile: true
 
 ### **Journals**
 - **[Frontiers'24]** Ontology Extension by Online Clustering With Large Language Model Agents [PDF](){: .btn} 
-  + **Guanchen Wu**, TBD
+  + **Guanchen Wu**, Chen Ling , Ilana Graetz and Liang Zhao
 
 ### **Conferences**
 - **[ICLR'25]** TBD
