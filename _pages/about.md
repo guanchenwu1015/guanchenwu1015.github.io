@@ -12,7 +12,7 @@ Hi, I'm Guanchen Wu! I am currently a second-year Master's student majoring in c
 
 My research interests span graph data mining, artificial intelligence, and large language models (LLMs) for health. Recently, I've begun exploring LLM agents and machine learning models for broader applications, such as healthcare.
 
-You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/CV.pdf).
 
 [Email](mailto:guanchen.wu@emory.edu) / [Github](https://github.com/guanchenwu1015) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=PL2kCSYAAAAJ) / [LinkedIn](https://www.linkedin.com/in/guanchen-wu-4b553a216/)
 
