@@ -21,7 +21,7 @@ repository               : "guanchenwu1015.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio.png"
+  avatar           : "bio.jpg"
   name             : "Guanchen Wu"
   pronouns         : # example: "she/her"  
   bio              : "Motivated Researcher"
