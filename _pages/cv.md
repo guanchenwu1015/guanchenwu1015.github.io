@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Sep 2022 - May 2025: M.S. Student of Computer Science, Emory University
+* Sep 2023 - May 2025: M.S. Student of Computer Science, Emory University
 * Sep 2019 - Mar 2023: B.S. Student of Computer Science, University of California, Irvine
   
-Service and leadership
+Service
 ======
 * Reviewer: CVPR(2025)
 * Reviewer: TNNLS (2025)
