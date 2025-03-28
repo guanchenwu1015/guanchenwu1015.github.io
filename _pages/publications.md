@@ -12,9 +12,10 @@ author_profile: true
   + **Guanchen Wu**, Chen Ling , Ilana Graetz and Liang Zhao
 
 ### **Conferences**
-- **[MedInfo'25]** TBD
+- **[MedInfo'25]** Large Language Model Empowered Privacy-Protected Framework for PHI Annotation in Clinical Notes [PDF](){: .btn} 
+  + **Guanchen Wu**, Linzhi Zheng , Han Xie, Zhen Xiang, Jiaying Lu, Darren Liu, Delgersuren Bold, Bo Li, Xiao Hu and Carl Yang
 - **[ACL'25]** TBD
-- **[ICHI'25]** TBD
+- **[AMIA'25]** TBD
 
 
 
