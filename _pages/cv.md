@@ -16,6 +16,7 @@ Education
   
 Service
 ======
+* Reviewer: ACL(2025)
 * Reviewer: CVPR(2025)
 * Reviewer: TNNLS (2025)
 * Reviewer: SIGIR (2025)
