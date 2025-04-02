@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Guanchen Wu's Homepage"
+title                    : "Guanchen Wu | Emory University"
 title_separator          : "-"
 name                     : &name "Guanchen Wu"
 description              : &description "Second-year Master's Student in Emory University"
