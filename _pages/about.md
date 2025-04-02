@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Guanchen Wu @ Emory"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
