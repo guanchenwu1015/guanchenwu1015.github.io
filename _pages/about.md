@@ -17,6 +17,7 @@ You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/CV.pdf).
 [Email](mailto:guanchen.wu@emory.edu) / [Github](https://github.com/guanchenwu1015) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=PL2kCSYAAAAJ) / [LinkedIn](https://www.linkedin.com/in/guanchen-wu-4b553a216/)
 
 ## **News**
+- 04/2025: The complete paper on LLM-empowered Protected Health Information (PHI) annotation is available at [preprint (accepted by MedInfo 2025)]([https://medinfo2025.org/](https://arxiv.org/abs/2504.18569)).
 - 03/2025: One paper on LLM-empowered Protected Health Information (PHI) annotation is accepted by [MedInfo 2025](https://medinfo2025.org/).
 - 10/2024: Our work on explaining Text-Attributed Graph learning models is available at [preprint](https://arxiv.org/pdf/2410.15268)
 - 09/2024: One paper on ontology extension is accepted by [Frontiers in Big Data](https://www.frontiersin.org/research-topics/62211/large-language-models-in-data-mining).
