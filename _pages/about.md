@@ -20,7 +20,7 @@ You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/CV.pdf).
 - 04/2025: The complete paper on LLM-empowered Protected Health Information (PHI) annotation is available at [preprint (accepted by MedInfo 2025)](https://arxiv.org/abs/2504.18569).
 - 03/2025: One paper on LLM-empowered Protected Health Information (PHI) annotation is accepted by [MedInfo 2025](https://medinfo2025.org/).
 - 10/2024: Our work on explaining Text-Attributed Graph learning models is available at [preprint](https://arxiv.org/pdf/2410.15268)
-- 09/2024: One paper on ontology extension is accepted by [Frontiers in Big Data](https://www.frontiersin.org/research-topics/62211/large-language-models-in-data-mining).
+- 09/2024: One paper on ontology extension is accepted by [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2024.1463543/full).
 
 
 ## **Recent Research Projects**
