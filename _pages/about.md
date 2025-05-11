@@ -37,4 +37,4 @@ You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/CV.pdf).
 - Language Agents: From Next-Token Prediction to Digital Automation (Shunyu Yao)
 
 
-<a href="https://mapmyvisitors.com/web/1by91"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=5t2tEJ8NUCNQ-qwXS9HL6VGLI1OCfLS9iaXoTl7OfpI&cl=ffffff" /></a>
+
