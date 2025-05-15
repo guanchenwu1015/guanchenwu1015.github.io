@@ -25,11 +25,6 @@ You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/CV.pdf).
 - 09/2024: One paper on ontology extension is accepted by [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2024.1463543/full).
 
 
-## **Recent Research Projects**
-- Undergoing Project 1
-- Undergoing Project 2
-- Undergoing Project 3
-
 
 ## **Recent Readings**
 - What Life Could Mean to You (Alfred Adler)
