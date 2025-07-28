@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 # **About Me**
-Hi, I'm Guanchen Wu! I am currently a second-year Master's student majoring in computer science at [Emory University](https://www.emory.edu/home/index.html). I received my B.S. degree from the Department of Computer Science at the [University of California, Irvine](https://uci.edu/) in March 2023.
+Hi, I'm Guanchen Wu! I am a Ph.D. student in Computer Science at [Emory University](https://www.emory.edu/home/index.html), where I am fortunate to be advised by Prof. [Carl Yang](https://www.cs.emory.edu/~jyang71/). I earned my M.S. degree in Computer Science from [Emory University](https://www.emory.edu/home/index.html) in May 2025 and received B.S. degree in Computer Science from the [University of California, Irvine](https://uci.edu/) in March 2023.
 
-My research interests span large language models (LLMs), AI4Health, and graph data mining. Recently, I've begun exploring LLM agents and multimodal models for healthcare.
+My research interests span AI4Health, large language models (LLMs), and graph data mining. Recently, I've begun exploring LLM agents and multimodal models for healthcare.
 
 You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/CV.pdf).
 
