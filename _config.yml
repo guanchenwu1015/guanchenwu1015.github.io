@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Guanchen Wu | Emory University"
+title                    : "Guanchen Wu"
 title_separator          : "-"
 name                     : "Guanchen Wu"
 description              : "Ph.D Student at Emory University"
@@ -24,7 +24,7 @@ author:
   avatar           : "bio.jpg"
   name             : "Guanchen Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Motivated Researcher"
+  bio              : "Ph.D Student at Emory University"
   location         : "Atlanta,GA"
   employer         : "Emory University"
   uri              : # URL
