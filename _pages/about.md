@@ -18,6 +18,7 @@ You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/CV.pdf).
 
 ## **News**
 - 10/2025: Our work on multi-agent automatic evaluation and model selection for PHI de-identification is accepted to [Agents4Science 2025](https://agents4science.stanford.edu/) as <span style="color:red;">Spotlight</span>!
+- 10/2025: Our work on medical ontology extension using LLMs is accepted to [BIBM 2025](https://ieeebibm.org/BIBM2025/)!
 - 05/2025: Our work on explaining Text-Attributed Graph learning models is accepted to [ACL 2025 main conference](https://2025.aclweb.org/)!
 - 05/2025: I have successfully completed my Master’s degree in Computer Science at Emory University.
 - 04/2025: The complete paper on LLM-empowered Protected Health Information (PHI) annotation is available at [preprint (accepted by MedInfo 2025)](https://arxiv.org/abs/2504.18569).
