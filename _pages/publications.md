@@ -9,6 +9,8 @@ author_profile: true
 
 
 ### **Conferences**
+- **[BIBM'25]** Utilizing Large Language Models for Zero-Shot Medical Ontology Extension from Clinical Notes [PDF](){: .btn} 
+  + **Guanchen Wu**, Yuzhang Xie, Huanmei Wu, Zhe He, Hui Shao, Xiao Hu, and Carl Yang
 - **[Agents4Science'25]** Towards Automatic Evaluation and Selection of PHI De-identification Models via Multi-Agent Collaboration [PDF](){: .btn} 
   + **Guanchen Wu**, Zuhui Chen, Yuzhang Xie, and Carl Yang
 - **[MedInfo'25]** Large Language Model Empowered Privacy-Protected Framework for PHI Annotation in Clinical Notes [PDF](){: .btn} 
