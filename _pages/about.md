@@ -17,6 +17,7 @@ You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/CV.pdf).
 [Email](mailto:guanchen.wu@emory.edu) / [Github](https://github.com/guanchenwu1015) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=PL2kCSYAAAAJ) / [LinkedIn](https://www.linkedin.com/in/guanchen-wu-4b553a216/)
 
 ## **News**
+- 01/2026: Our recent work on benchmarking LLMs for evidence-grounded epidemiological question answering is available at [preprint](https://arxiv.org/abs/2601.03471)!
 - 10/2025: Our work on multi-agent automatic evaluation and model selection for PHI de-identification is accepted to [Agents4Science 2025](https://agents4science.stanford.edu/) as <span style="color:red;">Spotlight</span>!
 - 10/2025: Our work on medical ontology extension using LLMs is accepted to [BIBM 2025](https://ieeebibm.org/BIBM2025/)!
 - 05/2025: Our work on explaining Text-Attributed Graph learning models is accepted to [ACL 2025 main conference](https://2025.aclweb.org/)!
@@ -24,7 +25,7 @@ You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/CV.pdf).
 - 04/2025: The complete paper on LLM-empowered Protected Health Information (PHI) annotation is available at [preprint (accepted by MedInfo 2025)](https://arxiv.org/abs/2504.18569).
 - 03/2025: One paper on LLM-empowered Protected Health Information (PHI) annotation is accepted to [MedInfo 2025](https://medinfo2025.org/).
 - 03/2025: I’m excited to continue my journey at Emory as a PhD student in Computer Science, beginning in September 2025.
-- 10/2024: Our work on explaining Text-Attributed Graph learning models is available at [preprint](https://arxiv.org/pdf/2410.15268)
+- 10/2024: Our work on explaining Text-Attributed Graph learning models is available at [preprint](https://arxiv.org/pdf/2410.15268)!
 - 09/2024: One paper on ontology extension is accepted to [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2024.1463543/full).
 
 
