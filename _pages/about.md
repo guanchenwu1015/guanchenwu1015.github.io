@@ -17,7 +17,7 @@ You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/CV.pdf).
 [Email](mailto:guanchen.wu@emory.edu) / [Github](https://github.com/guanchenwu1015) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=PL2kCSYAAAAJ) / [LinkedIn](https://www.linkedin.com/in/guanchen-wu-4b553a216/)
 
 ## **News**
-- 05/2025: Our work EHRBench is accepted to [KDD 2026 Datasets and Benchmarks Track](https://kdd2026.kdd.org/)!
+- 05/2026: Our work EHRBench is accepted to [KDD 2026 Datasets and Benchmarks Track](https://kdd2026.kdd.org/)!
 - 01/2026: Our recent work on benchmarking LLMs for evidence-grounded epidemiological question answering is available at [preprint](https://arxiv.org/abs/2601.03471)!
 - 10/2025: Our work on multi-agent automatic evaluation and model selection for PHI de-identification is accepted to [Agents4Science 2025](https://agents4science.stanford.edu/) as <span style="color:red;">Spotlight</span>!
 - 10/2025: Our work on medical ontology extension using LLMs is accepted to [BIBM 2025](https://ieeebibm.org/BIBM2025/)!
