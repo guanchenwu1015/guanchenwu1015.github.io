@@ -19,7 +19,7 @@ You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/Guanchen_Wu_
 ## **News**
 - 09/2026: Our work on knowledge graph-guided missing MRI imputation for Alzheimer’s disease prediction has been accepted to [BHI 2026](https://bhi.embs.org/2026/)!
 - 08/2026: Our work EpiQAL has been accepted to [EMNLP 2026](https://2026.emnlp.org/)!
-- 05/2026: Our work EHRBench has been accepted to [KDD 2026(<span style="color:red;">Oral</span>)](https://kdd2026.kdd.org/)!
+- 05/2026: Our work EHRBench has been accepted to [KDD 2026 (<span style="color:red;">Oral</span>)](https://kdd2026.kdd.org/)!
 - 01/2026: Our recent work on benchmarking LLMs for evidence-grounded epidemiological question answering is available at [preprint](https://arxiv.org/abs/2601.03471)!
 - 10/2025: Our work on multi-agent automatic evaluation and model selection for PHI de-identification has been accepted to [Agents4Science 2025](https://agents4science.stanford.edu/) as <span style="color:red;">Spotlight</span>!
 - 10/2025: Our work on medical ontology extension using LLMs has been accepted to [BIBM 2025](https://ieeebibm.org/BIBM2025/)!
