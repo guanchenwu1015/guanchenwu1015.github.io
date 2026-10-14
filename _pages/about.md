@@ -3,7 +3,8 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+news_limit: 10
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -38,5 +39,44 @@ You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/Guanchen_Wu_
 - The Razor's Edge (William Somerset Maugham)
 - Language Agents: From Next-Token Prediction to Digital Automation (Shunyu Yao)
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const limit = {{ page.news_limit | default: 10 }};
+  const list = document.querySelector("#news + ul");
+  if (!list) return;
 
+  const items = Array.from(list.children);
+  if (items.length <= limit) return;
+
+  const olderItems = items.slice(limit);
+  let expanded = false;
+
+  list.id = "news-list";
+
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className = "btn btn--inverse btn--small";
+  button.setAttribute("aria-controls", list.id);
+
+  function updateNews() {
+    olderItems.forEach(function (item) {
+      item.hidden = !expanded;
+    });
+
+    button.textContent = expanded
+      ? "Show less"
+      : "Show more (" + olderItems.length + " older news)";
+
+    button.setAttribute("aria-expanded", String(expanded));
+  }
+
+  button.addEventListener("click", function () {
+    expanded = !expanded;
+    updateNews();
+  });
+
+  list.insertAdjacentElement("afterend", button);
+  updateNews();
+});
+</script>
 
