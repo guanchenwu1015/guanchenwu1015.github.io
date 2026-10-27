@@ -11,14 +11,11 @@ redirect_from:
 
 Education
 ======
+* Sep 2025 - Present: Ph.D. Student of Computer Science, Emory University
 * Sep 2023 - May 2025: M.S. Student of Computer Science, Emory University
 * Sep 2019 - Mar 2023: B.S. Student of Computer Science, University of California, Irvine
   
 Service
 ======
-* Reviewer: ICCV (2025)
-* Reviewer: ACL (2025)
-* Reviewer: CVPR (2025)
-* Reviewer: TNNLS (2025)
-* Reviewer: SIGIR (2025)
-* Reviewer: TNNLS (2024)
+* Reviewer: TNNLS (2024, 2025, 2026), SDM (2026)
+* Session Chair: EMNLP (2026)
