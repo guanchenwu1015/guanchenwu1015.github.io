@@ -10,13 +10,13 @@ author_profile: true
 
 ### **Conferences**
 - **[APAO'27]** Foundation Model–Based Fusion of Color Fundus Photography and Optical Coherence Tomography for Systemic biomarkers Prediction 
-  + Yiheng Shi, **Guanchen Wu**, Siyi Chen, Zengxiang Li, Laura Gutierrez, Yao Jie, Haoran Cheng, Alessandro Berni, Carl Yang, Daniel Ting
+  + Yiheng Shi, **Guanchen Wu**, Siyi Chen, Zengxiang Li, Laura Gutierrez, Yao Jie, Haoran Cheng, Alessandro Berni, Carl Yang, and Daniel Ting
 - **[BHI'26]** MIRAGE: Knowledge Graph-Guided Missing MRI Imputation for Alzheimer's Disease Prediction 
-  + **Guanchen Wu**, Zhe Huang, Yuzhang Xie, Runze Yan, Akul Chopra, Deqiang Qiu, Xiao Hu, Fei Wang, Carl Yang
+  + **Guanchen Wu**, Zhe Huang, Yuzhang Xie, Runze Yan, Akul Chopra, Deqiang Qiu, Xiao Hu, Fei Wang, and Carl Yang
 - **[KDD'26]** EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs 
-  + Yuzhang Xie, Keqi Han, Yunpeng Xiao, Hejie Cui, **Guanchen Wu**, Ziyang Zhang, Kai Shu, Jiaying Lu, Xiao Hu, Carl Yang
+  + Yuzhang Xie, Keqi Han, Yunpeng Xiao, Hejie Cui, **Guanchen Wu**, Ziyang Zhang, Kai Shu, Jiaying Lu, Xiao Hu, and Carl Yang
 - **[EMNLP'26]** EpiQAL: Benchmarking Large Language Models in Epidemiological Question Answering and Reasoning
-  + Mingyang Wei, Dehai Min, Zewen Liu, Yuzhang Xie, **Guanchen Wu**, Ziyang Zhang, Carl Yang, Max SY Lau, Qi He, Lu Cheng, Wei Jin
+  + Mingyang Wei, Dehai Min, Zewen Liu, Yuzhang Xie, **Guanchen Wu**, Ziyang Zhang, Carl Yang, Max SY Lau, Qi He, Lu Cheng, and Wei Jin
 - **[BIBM'25]** Utilizing Large Language Models for Zero-Shot Medical Ontology Extension from Clinical Notes
   + **Guanchen Wu**, Yuzhang Xie, Huanmei Wu, Zhe He, Hui Shao, Xiao Hu, and Carl Yang
 - **[Agents4Science'25]** Towards Automatic Evaluation and Selection of PHI De-identification Models via Multi-Agent Collaboration
