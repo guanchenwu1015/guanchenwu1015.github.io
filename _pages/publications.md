@@ -9,6 +9,8 @@ author_profile: true
 
 
 ### **Conferences**
+- **[APAO'27]** Foundation Model–Based Fusion of Color Fundus Photography and Optical Coherence Tomography for Systemic biomarkers Prediction 
+  + Yiheng Shi, **Guanchen Wu**, Siyi Chen, Zengxiang Li, Laura Gutierrez, Yao Jie, Haoran Cheng, Alessandro Berni, Carl Yang, Daniel Ting
 - **[BHI'26]** MIRAGE: Knowledge Graph-Guided Missing MRI Imputation for Alzheimer's Disease Prediction 
   + **Guanchen Wu**, Zhe Huang, Yuzhang Xie, Runze Yan, Akul Chopra, Deqiang Qiu, Xiao Hu, Fei Wang, Carl Yang
 - **[KDD'26]** EHRBench: An Automated and Reliable EHR-based Benchmark for Clinical Decision Making with LLMs 
