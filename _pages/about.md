@@ -18,6 +18,7 @@ You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/Guanchen_Wu_
 [Email](mailto:guanchen.wu@emory.edu) / [Github](https://github.com/guanchenwu1015) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=PL2kCSYAAAAJ) / [LinkedIn](https://www.linkedin.com/in/guanchen-wu-4b553a216/)
 
 ## **News**
+- 10/2026: Our work on foundation model-based fusion of fundus photography and OCT for systemic biomarker prediction has been accepted to [APAO 2027](https://2027.apaophth.org/)!
 - 09/2026: Our work on knowledge graph-guided missing MRI imputation for Alzheimer’s disease prediction has been accepted to [BHI 2026](https://bhi.embs.org/2026/)!
 - 08/2026: Our work EpiQAL has been accepted to [EMNLP 2026](https://2026.emnlp.org/)!
 - 05/2026: Our work EHRBench has been accepted to [KDD 2026 (<span style="color:red;">Oral</span>)](https://kdd2026.kdd.org/)!
