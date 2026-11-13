@@ -15,7 +15,7 @@ My research interests span AI4Health, large language models (LLMs), and graph da
 
 You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/Guanchen_Wu_CV.pdf).
 
-[Email](mailto:guanchen.wu@emory.edu) / [Github](https://github.com/guanchenwu1015) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=PL2kCSYAAAAJ) / [LinkedIn](https://www.linkedin.com/in/guanchen-wu-4b553a216/)
+[Email](mailto:guanchen.wu@emory.edu) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=PL2kCSYAAAAJ) / [LinkedIn](https://www.linkedin.com/in/guanchen-wu-4b553a216/)
 
 ## **News**
 - 10/2026: Our work on foundation model-based fusion of fundus photography and OCT for systemic biomarker prediction has been accepted to [APAO 2027](https://2027.apaophth.org/)!
